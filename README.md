@@ -9,11 +9,15 @@ We plan to use nmap under the hood to perform a host scan. Afterward, we will us
 
 Recources:
 Vulnerability Database - https://security.snyk.io/
+
 Vulnerability Database - https://vuldb.com/
 
 Inspiration - https://www.tenable.com/products/nessus
+
 Inspiration - https://subgraph.com/vega/
 
 Tools - https://nmap.org/
+
 Java
+
 JS
