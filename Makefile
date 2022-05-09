@@ -25,5 +25,5 @@ install:
 
 clean:
 	# clean will remove your my-plugins folder. be warned
-	rm -Rf $(DESTDIR)$(BINPATH)/$(NAME) $(DESTDIR)$(MANPATH)/man1/$(NAME).1 $(DESTDIR)$(MANPATH)/man1/$(NAME).1.gz $(DESTDIR)$(LIBPATH)/$(NAME) $(DESTDIR)$(DOCPATH)/$(NAME)
+	cd src && python3 setup.py install --record files.txt && xargs rm -rf < files.txt && rm -f files.txt
 	cd whatweb && $(MAKE) clean

@@ -7,8 +7,8 @@ def scan_page(url, output, aggression):
     if (output is None):
         output = 'output.xml'
     if (aggression is None):
-        agression = 1
-    os.system(f'whatweb --log-xml={output} -a {aggression} {url}')
+        aggression = 1
+    os.system(f'whatweb -a {aggression} --log-xml={output} -q {url}')
     return 'Done!'
 
 if __name__ == "__main__":
