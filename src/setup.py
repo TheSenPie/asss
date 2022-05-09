@@ -9,6 +9,9 @@ setup(
     url='https://github.com/TheSenPie/assss',
     packages=['assss'],
     scripts=['assss/Assss.py'],
+    install_requires=[
+        'bs4',
+    ],
     classifiers = [
         "Development Status :: 1 - Pre-Alpha",
         "Environment :: Console",

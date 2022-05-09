@@ -1,0 +1,423 @@
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>
+<log>
+<target>
+	<uri>http://192.168.56.102/bodgeit/</uri>
+	<http-status>200</http-status>
+	<request-config>
+		<header>
+			<header-name>User-Agent</header-name>
+			<header-value>WhatWeb/0.5.5</header-value>
+		</header>
+	</request-config>
+	<plugin>
+		<name>HTTPServer</name>
+		<string>Apache-Coyote/1.1</string>
+	</plugin>
+	<plugin>
+		<name>Via-Proxy</name>
+		<string>1.1 127.0.1.1</string>
+	</plugin>
+	<plugin>
+		<name>Title</name>
+		<string>The BodgeIt Store</string>
+	</plugin>
+	<plugin>
+		<name>Script</name>
+		<string>text/javascript</string>
+	</plugin>
+	<plugin>
+		<name>Apache</name>
+	</plugin>
+	<plugin>
+		<name>Cookies</name>
+		<string>JSESSIONID</string>
+	</plugin>
+	<plugin>
+		<name>Java</name>
+	</plugin>
+	<plugin>
+		<name>IP</name>
+		<string>192.168.56.102</string>
+	</plugin>
+	<plugin>
+		<name>Country</name>
+		<string>RESERVED</string>
+		<module>ZZ</module>
+	</plugin>
+</target>
+</log>

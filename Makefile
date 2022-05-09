@@ -1,5 +1,7 @@
 NAME = assss
 WHATWEB = whatweb
+SQLMAP = sqlmap
+XSSTRIKE = xsstrike
 PREFIX ?= /usr
 BINPATH = $(PREFIX)/bin
 LIBPATH = $(PREFIX)/share
@@ -19,9 +21,13 @@ install:
 	# upgrade/installation will leave the my-plugins folder
 	rm -Rf $(DESTDIR)$(BINPATH)/$(NAME)
 	rm -Rf $(WHATWEB)
+	rm -Rf $(SQLMAP)
+	rm -Rf $(XSSTRIKE)
 
 	cd src && python3 setup.py install
-	git clone https://github.com/urbanadventurer/WhatWeb.git $(WHATWEB) && cd $(WHATWEB) && $(MAKE) install
+	git clone --depth 1 https://github.com/urbanadventurer/WhatWeb.git $(WHATWEB) && cd $(WHATWEB) && $(MAKE) install
+	git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git $(SQLMAP)
+	git clone --depth 1 https://github.com/s0md3v/XSStrike.git $(XSSTRIKE) && cd $(XSSTRIKE) && pip3 install -r requirements.txt
 
 clean:
 	# clean will remove your my-plugins folder. be warned
